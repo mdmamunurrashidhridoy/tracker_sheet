@@ -2,9 +2,9 @@
 
 ## Screenshots
 
-![App Screenshot](images/Screenshot From 2025-03-22 10-55-57.png) 
-![App Screenshot](images/Screenshot From 2025-03-22 10-56-05.png) 
-![App Screenshot](images/Screenshot From 2025-03-22 10-56-11.png) 
+![App Screenshot](images/img1.png) 
+![App Screenshot](images/img2.png) 
+![App Screenshot](images/img3.png) 
 
 # Navigation Drawer App
 
