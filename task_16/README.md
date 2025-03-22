@@ -1,6 +1,6 @@
 # task_16
 
-![app](images/img.webm)
+![app](images/img.gif)
 
 
 # Animated Container App
