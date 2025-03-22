@@ -1,5 +1,7 @@
 # task_02
 
+![App Screenshot](images/image.png)
+
 A new Flutter project.
 
 ## Getting Started
